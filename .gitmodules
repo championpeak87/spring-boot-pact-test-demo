@@ -1,0 +1,6 @@
+[submodule "spring-boot-demo-app-consumer"]
+	path = spring-boot-demo-app-consumer
+	url = https://github.com/championpeak87/spring-boot-demo-app-consumer.git
+[submodule "spring-boot-demo-app-provider"]
+	path = spring-boot-demo-app-provider
+	url = https://github.com/championpeak87/spring-boot-demo-app-provider.git
